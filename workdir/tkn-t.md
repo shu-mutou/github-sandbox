@@ -1,1 +1,1 @@
-=P R=
+=P R= as attendee
